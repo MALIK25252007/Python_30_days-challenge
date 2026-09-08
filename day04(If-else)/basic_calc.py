@@ -1,0 +1,27 @@
+print("------------------------------------")
+print("-- Calculator Made By Tarun Malik --")
+print("------------------------------------")
+
+name=input("Enter Your Name:")
+roll=int(input("Enter Your Roll No: "))
+print("\n")
+
+num1=int(input("Enter first number: "))
+num2=int(input("Enter Second number: "))
+
+print("\nHere is all the operatons performed on these numbers")
+print("------------------------------------------------------")
+print("Addition: ", num1 ,"+", num2 ,"=", num1+num2)
+print("------------------------------------------------------")
+print("Subtraction: ", num1 ,"-", num2 ,"=", num1-num2)
+print("------------------------------------------------------")
+print("Multiplication: ", num1 ,"*", num2 ,"=", num1*num2)
+print("------------------------------------------------------")
+print("Devision: ", num1 ,"/", num2 ,"=", num1/num2)
+print("------------------------------------------------------")
+print("Floor Division: ", num1 ,"//", num2 ,"=", num1//num2)
+print("------------------------------------------------------")
+print("Power: ", num1 ,"^", num2 ,"=", num1**num2)
+print("------------------------------------------------------")
+print("---------- Thanku fow usiing my calculator -----------")
+
