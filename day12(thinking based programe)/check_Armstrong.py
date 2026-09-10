@@ -1,4 +1,4 @@
-#WAP to check weather the number given by user is a Armstrong or not
+#WAP to check whether the number given by user is a Armstrong or not
 import math
 num=int(input("Entre a number : "))
 temp=num
