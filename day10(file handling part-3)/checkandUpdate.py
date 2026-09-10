@@ -4,7 +4,7 @@ stu={ }
 found=False
 fin=open('stu.dat','rb+')
 try:
-    while True:
+    while True: 
         rpos=fin.tell()
         stu=pickle.load(fin)
         if stu['Marks']>81:
