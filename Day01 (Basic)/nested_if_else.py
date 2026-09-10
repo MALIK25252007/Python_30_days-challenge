@@ -1,4 +1,4 @@
-# Wap to check wether the candidate is eligible for interview or not
+# Wap to check whether the candidate is eligible for interview or not
 print("---------------------------------------")
 print("Answer the following questions correctly (y/n)")
 age=input("Are you 18+ : ")
