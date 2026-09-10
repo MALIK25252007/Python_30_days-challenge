@@ -1,4 +1,4 @@
-# WAP to check and print wether the input number is even, odd or 0
+# WAP to check and print whether the input number is even, odd or 0
 num=int(input("Enter a Positive number : "))
 if num==0:
     print("The given input is 0")
